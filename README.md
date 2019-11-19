@@ -26,7 +26,9 @@ The original file can be accessed [here](https://github.com/dalpengholic/small_c
 ## Result
 
 The answers can be checked [here](https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb).
+
 If it is not available to see at GitHub, go to https://nbviewer.jupyter.org and paste the address as follows.
+
 https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb
 
 <a name="acknowledgements"></a>
