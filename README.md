@@ -16,7 +16,7 @@ The purpose of this repository is to answer the questions given by The Shortcut.
 <a name="problems"></a>
 
 ## Problems
-The original file can be accessed [here](https://theshortcut.org).
+The original file can be accessed [here](https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/challenges.pdf).
 ### Input Data
 - Numpy 2d array (shape (6x10))
 - Pandas dataframe (shape (93x5))
@@ -25,7 +25,9 @@ The original file can be accessed [here](https://theshortcut.org).
 
 ## Result
 
-The answers can be checked [here]()(https://theshortcut.org).
+The answers can be checked [here](https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb).
+If it is not available to see at GitHub, go to https://nbviewer.jupyter.org and paste the address as follows.
+https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb
 
 <a name="acknowledgements"></a>
 
