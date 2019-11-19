@@ -28,21 +28,21 @@ The original file can be accessed [here](https://github.com/dalpengholic/small_c
 The answers can be checked [here](https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb).
 
 The order of answers are as follows.
-- 1) Numpy 
+1) Numpy 
   - After Refactoring
   - Before Refactoring
   
 The best answer is achieved using a Numpy function `np.bincount`. The performance was checked using `%%timeit`.
   
-- 2) Pandas
+2) Pandas
   - After Refactoring
   - Before Refactoring
 
 First, replace NaNs with "missing". Second, create index using combined values in three columns.
 
-If it is not available to see at GitHub, go to https://nbviewer.jupyter.org and paste the address as follows.
+If it is not available to see at GitHub, go to `https://nbviewer.jupyter.org` and paste the address as follows.
 
-https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb
+`https://github.com/dalpengholic/small_challenge_with_TheShortcut/blob/master/small_challenge.ipynb`
 
 <a name="acknowledgements"></a>
 
